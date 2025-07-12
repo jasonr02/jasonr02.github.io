@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+# Summary
+
+Hello! Welcome to my portfolio website! My name is Jason and I have been working at an ITS Help Desk at the University of San Diego since July of 2021.
+
+My educational background consists of a Bachelor of Science in Computer Science, with a concentration in Cyber Security and minors in Mathematics/Chemistry and a Master of Science in Cyber Security Engineering, both obtained from the University of San Diego.
+
+Please connect with me on [Linkedin](./https://www.linkedin.com/in/jason-reed-a0a3ab247/) to stay updated on my journey in the IT/Cybersecurity field!
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
